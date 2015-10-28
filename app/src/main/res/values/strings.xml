@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L23Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1Text">Add crown</string>
+    <string name="button2Text">Add cat</string>
+    <string name="catsMessageCat">Cats -</string>
+    <string name="catsMessageCrown">Crowns -</string>
+</resources>
